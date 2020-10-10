@@ -1,4 +1,5 @@
 console.log('テスト');
+console.log('testコメント追加');
 
 123 //数字
 "" //or 
